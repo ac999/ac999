@@ -6,7 +6,7 @@ I'm a **Cybersecurity Engineer** currently focused on automotive security. My ro
 
 - Develop cybersecurity requirements and contribute to system architecture design to safeguard automotive systems.
 - Threat Analysis and Risk Assessment in Automotive Context.
-- Creation of Security Concepts.
+- Create Security Concepts.
 
 ### My Projects
 
