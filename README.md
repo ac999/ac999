@@ -22,7 +22,7 @@ I'm a **Cybersecurity Engineer** currently focused on automotive security. My ro
 
 #### Python Spam Filter
 
-- [Repository}(https://github.com/ac999/python-spam-filter)
+- [Repository](https://github.com/ac999/python-spam-filter)
 - A spam filter using Bayse Naive and `sklearn`.
   
 #### Web Server & Lua Load Balancer
