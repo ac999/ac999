@@ -27,8 +27,8 @@ I'm a **Cybersecurity Engineer** currently focused on automotive security. My ro
   
 #### Other Projects
 - Smaller projects that highlight my ability to work with low-level languages and scripting for automation.
-- [C Web Server](https://github.com/ac999/Simple-Web-Server)
-- [Rust Lua Load Balancer](https://github.com/ac999/lua-loadbalancer)
+- [C Web Server](https://github.com/ac999/Simple-Web-Server).
+- [Rust Lua Load Balancer](https://github.com/ac999/lua-loadbalancer).
 - [Rezidentiat.com formatter](https://github.com/ac999/rezidentiat_com_formatter) - two Python scripts that automate processing HTML files saved from the rezidentiat.com website. These scripts help users extract and reformat data into more usable formats, such as .docx files for reports and .txt files for Quizlet flashcards.
 - [Bash Script](https://github.com/ac999/git-repo-merge) to merge repositories from parent directory into current repository.
 - [LFSR Implementation in VHDL](https://github.com/ac999/HAC).
